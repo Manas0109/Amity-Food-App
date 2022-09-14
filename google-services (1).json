@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615163703282",
+    "firebase_url": "https://foodapplication-34a34-default-rtdb.firebaseio.com",
+    "project_id": "foodapplication-34a34",
+    "storage_bucket": "foodapplication-34a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615163703282:android:bffef1b58142bbc3f6456b",
+        "android_client_info": {
+          "package_name": "com.example.moneymanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615163703282-vetrjsvdq2h2r8ltq8hk5d7dtsfg906k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcum3kPuWNe4wHqGu1F1TO_qxkMGeY9W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615163703282-vetrjsvdq2h2r8ltq8hk5d7dtsfg906k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

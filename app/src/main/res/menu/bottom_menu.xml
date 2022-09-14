@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeFragment"
+        app:showAsAction="ifRoom"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:id="@+id/favFragment"
+        app:showAsAction="ifRoom"
+        android:title="Favorite"
+        android:icon="@drawable/ic_favorite"/>
+    <item
+        android:id="@+id/holder"
+        app:showAsAction="ifRoom"
+        android:title=""
+        android:enabled="false"/>
+
+    <item
+        android:id="@+id/helpFragment"
+        android:title="Help"
+        android:icon="@drawable/ic_help"/>
+
+    <item
+        android:id="@+id/accountFragment"
+        app:showAsAction="ifRoom"
+        android:title="Account"
+        android:icon="@drawable/ic_account"/>
+</menu>
